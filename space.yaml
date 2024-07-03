@@ -1,0 +1,4 @@
+sdk: flask
+app_file: app.py
+dependencies:
+  - ffmpeg  # Ensure ffmpeg is installed

@@ -1,0 +1,7 @@
+flask
+moviepy
+openai-whisper
+gunicorn
+gevent
+requests
+pydub
